@@ -1,6 +1,4 @@
-<html lang="zh-cn">
-      <head>
-           <meta charset="utf-8">
+
            <title>长津湖</title>
       </head>
       <body>
